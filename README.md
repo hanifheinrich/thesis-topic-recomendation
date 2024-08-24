@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e449d0cc-a9c8-4e3d-8432-29b518b0f713)# Web Rekomendasi Topik Tugas Akhir Mahasiswa Departemen Sistem Informasi Unand
+# Web Rekomendasi Topik Tugas Akhir Mahasiswa Departemen Sistem Informasi Unand
 
 Tugas akhir merupakan tahap akhir dari program studi yang menuntut mahasiswa untuk mengaplikasikan pengetahuan yang mereka peroleh selama kuliah dalam suatu proyek. Namun, seringkali mahasiswa kesulitan dalam memilih topik yang sesuai dengan minat dan kemampuan mereka, terutama dalam lingkup yang luas seperti sistem informasi.
 
