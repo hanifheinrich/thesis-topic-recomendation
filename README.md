@@ -36,15 +36,8 @@ clf.fit(X_train,y_train)
 y_pred=clf.predict(X_test)
 print(classification_report(y_test,y_pred))
 ```
-`                              precision    recall  f1-score   support
-       Business Intelligence       0.86      0.67      0.75         9
-     Enterprise Architecture       1.00      1.00      1.00         6
-Enterprise Resource Planning       0.80      1.00      0.89         8
-  Sistem Informasi Geografis       0.71      0.71      0.71         7
-                    accuracy                           0.83        30
-                   macro avg       0.84      0.85      0.84        30
-                weighted avg       0.84      0.83      0.83        30
-`
+![image](https://github.com/user-attachments/assets/42540f5c-25fc-42ba-9178-411bd1f54520)
+
 
 ## Streamlit Deployment
 Pengimplementasian model dilakukan dengan cara menerapkan model yang telah dibuat sebelumnya ke dalam Streamlit. Streamlit adalah sebuah framework open-source yang digunakan untuk membangun antarmuka pengguna interaktif untuk aplikasi data dan machine learning
