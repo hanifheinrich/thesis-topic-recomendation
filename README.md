@@ -44,7 +44,6 @@ Enterprise Resource Planning       0.80      1.00      0.89         8
                     accuracy                           0.83        30
                    macro avg       0.84      0.85      0.84        30
                 weighted avg       0.84      0.83      0.83        30
-
 `
 
 ## Streamlit Deployment
