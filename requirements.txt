@@ -1,6 +1,6 @@
-numpy==1.24.3
-pandas==2.0.2
+numpy
+pandas
 streamlit
 scikit-learn
 pillow
-pip==24.2
+pip
