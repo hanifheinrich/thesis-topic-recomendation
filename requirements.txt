@@ -3,4 +3,4 @@ pandas==2.0.2
 streamlit
 scikit-learn
 pillow
-pip==23.1.2
+pip==24.2
